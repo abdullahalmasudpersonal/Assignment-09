@@ -2,11 +2,11 @@
 
 This project is live link [Laptop Review](https://willowy-klepon-c93087.netlify.app/).
 
--HOME
--REVIEW
--DASHBOARD
--BLOGS
--ABOUT
+- HOME
+- REVIEW
+- DASHBOARD
+- BLOGS
+- ABOUT
 
 ## Available Scripts
 
