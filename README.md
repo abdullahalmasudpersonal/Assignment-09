@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Laptop Review
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is live link [Laptop Review](https://willowy-klepon-c93087.netlify.app/).
+
+-HOME
+-REVIEW
+-DASHBOARD
+-BLOGS
+-ABOUT
 
 ## Available Scripts
 
