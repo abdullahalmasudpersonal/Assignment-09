@@ -1,0 +1,28 @@
+
+.laptop-info{
+    display: flex;
+}
+.div-info{
+    border: none;
+}
+.card-title{
+    color: rgb(66, 66, 66);
+    font-weight: bold;
+}
+.container button{
+    border: none;
+    padding: 15px 30px;
+    font-weight: bold;
+    color: rgb(59, 16, 16);
+    background: rgb(229, 190, 255);
+    border-radius: 8px;
+}
+.container button:hover{
+    background: rgb(198, 128, 255);
+    color: rgb(37, 17, 63);
+    font-size: 16.5px;
+}
+.container img{
+    width: 300px;
+    height: 300px;
+}
