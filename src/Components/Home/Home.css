@@ -1,4 +1,7 @@
 
+.ho-bg-color{
+    background-color: rgb(201, 187, 255);
+}
 .laptop-info{
     display: flex;
 }
@@ -9,7 +12,7 @@
     color: rgb(66, 66, 66);
     font-weight: bold;
 }
-.container button{
+.btn-demo button{
     border: none;
     padding: 15px 30px;
     font-weight: bold;
@@ -17,7 +20,7 @@
     background: rgb(229, 190, 255);
     border-radius: 8px;
 }
-.container button:hover{
+.btn-demo button:hover{
     background: rgb(198, 128, 255);
     color: rgb(37, 17, 63);
     font-size: 16.5px;
