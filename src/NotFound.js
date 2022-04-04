@@ -3,8 +3,8 @@ import './NotFound.css'
 
 const NotFound = () => {
     return (
-        <div>
-            <h5>Page not found</h5>
+        <div className='notfound'>
+            <img src='https://www.designbolts.com/wp-content/uploads/2015/12/Cute-404-page-not-found-design.jpg' alt='Page Not Found'></img>
         </div>
     );
 };
