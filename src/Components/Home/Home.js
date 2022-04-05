@@ -4,6 +4,7 @@ import './Home.css';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import useReview from '../../Hooks/useReview';
 import ReviewInfo from '../ReviewInfo/ReviewInfo';
+import { Link } from 'react-router-dom';
 
 
 const Home = () => {
@@ -23,14 +24,16 @@ const Home = () => {
             <h2><strong>Coustomer Reviews({review.length})</strong></h2>
             <div className='costomer-review'>
                 {
-                    review.map(review => <ReviewInfo
+                    review.map(review =><ReviewInfo
                         key={review._id}
                         review={review}
                     ></ReviewInfo>)
                 }
             </div>
             <div className='coustomer-btn'>
-                    <button className='coustomer-btn-min'>See All Reviews</button>
+                  <Link to='/review'>
+                  <button className='coustomer-btn-min'>See All Reviews</button>
+                  </Link>
                 </div>
         </div>
 
