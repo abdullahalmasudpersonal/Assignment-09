@@ -1,0 +1,18 @@
+
+.div-container{
+    display: grid;
+    grid-template-columns: 3fr;
+}
+.review-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+@media screen and (max-width: 900px){
+    .review-container{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "1236524",
+        "name": "Olive Jake",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "comment": "how would you overall rate it for gaming? i am looking for something that can convert to a tablet to take notes for college, but also something that can handle a bigger game like Battlefront II and COD. If there is a convertible that can do that do you have any suggestions?",
+        "rating": "4.5"
+    },
+    {
+        "_id": "9758456",
+        "name": "Jack Connor",
+        "image": "https://images.unsplash.com/photo-1543132220-3ec99c6094dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "comment": "I want to watcch youtube, a few dvds with external drive and run android aps should i get a chromebook or laptop? Im not to concerned with cost as iI am funtionality and screen display  oled sound and ability to run Android photo APS. ",
+        "rating": "5"
+    },
+    {
+        "_id": "9571395",
+        "name": "Harry Callum",
+        "image": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "comment": "Note that the built-in SD card reader is very slow, and can be considered close to useless. A micro-sd card rated for 100 MB/s transfers at 20 MB/s. My little Lexar USB 3.0 SD card reader transfers files to the same computer at 80 MB/s.",
+        "rating": "4"
+    },
+    {
+        "_id": "12967465",
+        "name": "Jacob Jacob",
+        "image": "https://images.unsplash.com/photo-1615109398623-88346a601842?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "comment": "What do you guys mean by the Spectre 'octopus' logo??? Is this review a joke?? That's not an actual con!",
+        "rating": "5"
+    },
+    {
+        "_id": "297531298",
+        "name": "Charlie Kyle",
+        "image": "https://images.unsplash.com/photo-1591084728795-1149f32d9866?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+        "comment": "HP still sells the Spectre x360 13, but you can forget about it.",
+        "rating": "4"
+    },
+    {
+        "_id": "7126529856",
+        "name": "Thomas Joe",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "comment": "16Gb ceiling? Mine has 2 slots so 64Gb should be no problem. Loving mine so far.",
+        "rating": "4.5"
+    }
+]

@@ -1,0 +1,18 @@
+
+.review-info{
+    border: 3px solid darkblue;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.review-info img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin: 0;
+} 
+.img-nam{
+    display: grid;
+}
+
