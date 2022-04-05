@@ -1,6 +1,6 @@
 # Laptop Review
 
-This project is live link [Laptop Review](https://willowy-klepon-c93087.netlify.app/).
+This project is live link [Laptop Review](https://abdullahalmasud-laptop-reviews.netlify.app).
 
 - HOME
 - REVIEW
