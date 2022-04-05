@@ -2,11 +2,14 @@ import React from 'react';
 import image from './nokia-laptop-2.png';
 import './Home.css';
 import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import useReview from '../../Hooks/useReview';
+import ReviewInfo from '../ReviewInfo/ReviewInfo';
 
 
 const Home = () => {
+    const [review, setReview] = useReview();
     return (
-        <div className='ho-bg-color'>
+        <div>
             <div className='laptop-info mt-5 container btn-demo'>
                 <div>
                     <h1 class="card-title">The world most powerful and Beautiful laptop</h1>
@@ -14,12 +17,23 @@ const Home = () => {
                     <button>Live demo</button>
                 </div>
                 <div>
-                    <div class="">
-                        <img src={image} class="card-img-top" alt="laptop" />
-                    </div>
+                    <img src={image} alt="laptop" />
                 </div>
             </div>
+            <h2><strong>Coustomer Reviews({review.length})</strong></h2>
+            <div className='costomer-review'>
+                {
+                    review.map(review => <ReviewInfo
+                        key={review._id}
+                        review={review}
+                    ></ReviewInfo>)
+                }
+            </div>
+            <div className='coustomer-btn'>
+                    <button className='coustomer-btn-min'>See All Reviews</button>
+                </div>
         </div>
+
     );
 };
 
