@@ -1,6 +1,6 @@
-# Laptop Review
+# Laptop Reviews
 
-This project is live link [Laptop Review](https://abdullahalmasud-laptop-reviews.netlify.app).
+This project is live link [Laptop Reviews](https://abdullahalmasud-laptop-reviews.netlify.app).
 
 - HOME
 - REVIEW
